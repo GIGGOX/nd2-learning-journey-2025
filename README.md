@@ -43,7 +43,7 @@ flowchart LR
     Mon --> Dev
 ```
 
-## 2. Front-End & Back-End
+## ✏️ 2. Front-End & Back-End
 
 #### 2.1 ภาพรวมของระบบ Software
 
